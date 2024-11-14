@@ -22,13 +22,13 @@ Odwracanie ciągu znaków. Napisz funkcję, która przyjmuje ciąg znaków i zwr
 
 Zaawansowane zadania:
 
-Kalkulator BMI. Napisz program, który obliczy BMI użytkownika na podstawie podanego wzrostu (w metrach) i wagi (w kilogramach), a następnie wyświetli odpowiednią interpretację wyniku.
+** Kalkulator BMI. Napisz program, który obliczy BMI użytkownika na podstawie podanego wzrostu (w metrach) i wagi (w kilogramach), a następnie wyświetli odpowiednią interpretację wyniku.
 
 Szyfr Cezara. Napisz funkcję, która zaszyfruje podany przez użytkownika tekst za pomocą szyfru Cezara z przesunięciem o określoną liczbę znaków.
 
 Gra "Zgadnij liczbę". Napisz program, w którym komputer losuje liczbę od 1 do 100, a użytkownik ma za zadanie ją odgadnąć. Po każdej próbie program podpowiada, czy podana liczba jest za duża czy za mała.
 
-Generowanie listy liczb pierwszych. Napisz funkcję, która zwróci listę wszystkich liczb pierwszych z zakresu od 2 do podanej liczby n.
+** Generowanie listy liczb pierwszych. Napisz funkcję, która zwróci listę wszystkich liczb pierwszych z zakresu od 2 do podanej liczby n.
 
 Anagramy. Napisz program, który sprawdzi, czy dwa podane przez użytkownika słowa są anagramami.
 
@@ -39,7 +39,8 @@ Walidacja hasła. Napisz program, który sprawdzi, czy podane przez użytkownika
 Ma co najmniej 8 znaków
 Zawiera co najmniej jedną dużą literę
 Zawiera co najmniej jedną cyfrę
-Sortowanie listy Napisz funkcję, która przyjmuje listę liczb i zwraca ją posortowaną w kolejności malejącej bez użycia wbudowanych funkcji sortujących.
+
+** Sortowanie listy Napisz funkcję, która przyjmuje listę liczb i zwraca ją posortowaną w kolejności malejącej bez użycia wbudowanych funkcji sortujących.
 
 Kalkulator funkcji kwadratowej. Napisz program, który pobierze współczynniki a, b, c funkcji kwadratowej i obliczy jej miejsca zerowe.
 

@@ -1,7 +1,7 @@
 import string
 
 
-class CezarCipherEncrypt:
+class CezarCipher:
     def __init__(self, text, rot):
         self.alphabet = ""
         self.text = text.lower()
@@ -43,4 +43,10 @@ class CezarCipherEncrypt:
         self.encrypt()
         return self.text
 
-text = CezarCipherEncrypt(text='suchpbvodz oxwrzvnl', rot=3).decrypt()
+
+rot = 10
+text_encrypt = CezarCipher(text='Welcome to cezar world of cipher', rot=rot).encrypt()
+print(text_encrypt)
+
+text_decrypt = CezarCipher(text=text_encrypt, rot=rot).decrypt()
+print(text_decrypt)

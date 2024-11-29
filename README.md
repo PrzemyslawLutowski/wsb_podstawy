@@ -24,7 +24,7 @@ Zaawansowane zadania:
 
 ** Kalkulator BMI. Napisz program, który obliczy BMI użytkownika na podstawie podanego wzrostu (w metrach) i wagi (w kilogramach), a następnie wyświetli odpowiednią interpretację wyniku.
 
-Szyfr Cezara. Napisz funkcję, która zaszyfruje podany przez użytkownika tekst za pomocą szyfru Cezara z przesunięciem o określoną liczbę znaków.
+** Szyfr Cezara. Napisz funkcję, która zaszyfruje podany przez użytkownika tekst za pomocą szyfru Cezara z przesunięciem o określoną liczbę znaków.
 
 Gra "Zgadnij liczbę". Napisz program, w którym komputer losuje liczbę od 1 do 100, a użytkownik ma za zadanie ją odgadnąć. Po każdej próbie program podpowiada, czy podana liczba jest za duża czy za mała.
 
@@ -34,11 +34,9 @@ Anagramy. Napisz program, który sprawdzi, czy dwa podane przez użytkownika sł
 
 Obliczanie silni. Napisz program, który obliczy silnię dla podanej liczby całkowitej.
 
-Walidacja hasła. Napisz program, który sprawdzi, czy podane przez użytkownika hasło spełnia następujące warunki:
+** Walidacja hasła. Napisz program, który sprawdzi, czy podane przez użytkownika hasło spełnia następujące warunki:
 
-Ma co najmniej 8 znaków
-Zawiera co najmniej jedną dużą literę
-Zawiera co najmniej jedną cyfrę
+** Ma co najmniej 8 znaków, Zawiera co najmniej jedną dużą literę, Zawiera co najmniej jedną cyfrę
 
 ** Sortowanie listy Napisz funkcję, która przyjmuje listę liczb i zwraca ją posortowaną w kolejności malejącej bez użycia wbudowanych funkcji sortujących.
 

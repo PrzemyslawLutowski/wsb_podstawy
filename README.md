@@ -42,7 +42,7 @@ Obliczanie silni. Napisz program, który obliczy silnię dla podanej liczby cał
 
 Kalkulator funkcji kwadratowej. Napisz program, który pobierze współczynniki a, b, c funkcji kwadratowej i obliczy jej miejsca zerowe.
 
-Analiza tekstu Napisz program, który pobierze od użytkownika tekst i wyświetli:
+**Analiza tekstu Napisz program, który pobierze od użytkownika tekst i wyświetli:
 
 Liczbę znaków w tekście
 Liczbę słów
